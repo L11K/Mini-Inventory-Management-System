@@ -80,7 +80,7 @@ $db['mysql'] = array(
 	'username' => 'root',
 	'password' => '',
 	'database' => '',
-	'dbdriver' => 'pdo',
+	'dbdriver' => 'mysql',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
 	'db_debug' => (ENVIRONMENT !== 'production'),
